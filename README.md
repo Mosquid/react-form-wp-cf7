@@ -1,4 +1,4 @@
-# React Form ContactForm7 Wrapper
+# React Form WP CF7 Wrapper
 
 A wrapper for your React form component that allows you to send it t your WordPress CF7 REST API route.
 
